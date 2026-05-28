@@ -3,9 +3,12 @@ title: Tricks
 author: Ficon
 pubDatetime: 2026-03-31T19:05:27+08:00
 featured: false
+showToc: true
 description: ""
 publish: true
 ---
+
+## Table of contents
 
 ## 时间复杂度优化
 

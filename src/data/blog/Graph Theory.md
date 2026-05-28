@@ -3,9 +3,13 @@ title: Graph Theory
 author: Ficon
 pubDatetime: 2026-05-28T18:57:02+08:00
 featured: false
+showToc: true
 description: ""
 publish: true
 ---
+
+## Table of contents
+
 ## 图
 
 ### 偏心距
