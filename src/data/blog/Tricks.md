@@ -3,7 +3,6 @@ title: Tricks
 author: Ficon
 pubDatetime: 2026-03-31T19:05:27+08:00
 featured: false
-tags:
 description: ""
 publish: true
 ---

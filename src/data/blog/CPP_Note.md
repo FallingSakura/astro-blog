@@ -4,7 +4,7 @@ author: Ficon
 pubDatetime: 2023-07-12T19:02:22+08:00
 categories: ACM
 featured: false
-tags: cpp
+tags: [cpp]
 description: ""
 publish: true
 ---

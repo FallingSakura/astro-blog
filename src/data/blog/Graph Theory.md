@@ -2,8 +2,7 @@
 title: Graph Theory
 author: Ficon
 pubDatetime: 2026-05-28T18:57:02+08:00
-featured: true
-tags:
+featured: false
 description: ""
 publish: true
 ---
