@@ -1,7 +1,11 @@
 ---
 title: Graph Theory
-pubDatetime: 2026-05-20T22:12:00Z
+author: Ficon
+pubDatetime: 2026-05-28T18:57:02+08:00
+featured: true
+tags:
 description: ""
+publish: true
 ---
 ## 图
 
