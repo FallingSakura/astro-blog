@@ -34,10 +34,10 @@ publish: true
 
 #### 多重背包
 
-[[Problems/P1833|P1833]]
+[P1833](https://x.fallingsakura.top/P1833)
 #### 完全背包
 
-[[Problems/P1833|P1833]]
+[P1833](https://x.fallingsakura.top/P1833)
 
 #### 依赖背包
 
@@ -167,7 +167,7 @@ signed main() {
 
 ```
 
-[[Problems/CF55D|CF55D]]
+[CF55D](https://x.fallingsakura.top/CF55D)
 
 基于此题引发了我对数位 DP 的思考：
 
