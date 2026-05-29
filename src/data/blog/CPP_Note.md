@@ -256,7 +256,7 @@ struct node
 
 # 重载运算符
 
-详见：[重载运算符](https://x.fallingsakura.top/重载运算符)。
+详见：[重载运算符](https://x.fallingsakura.top/posts/重载运算符)。
 
 # 范围 for 循环
 

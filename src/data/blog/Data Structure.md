@@ -249,9 +249,9 @@ struct DSU {
 
 ## 线段树分治
 
-- [P5787 线段树分治](https://x.fallingsakura.top/P5787 线段树分治)
-- [CF2222F](https://x.fallingsakura.top/CF2222F)
-- [P4219 BJOI4219 大融合](https://x.fallingsakura.top/P4219 BJOI4219 大融合)
+- [P5787 线段树分治](https://x.fallingsakura.top/posts/P5787 线段树分治)
+- [CF2222F](https://x.fallingsakura.top/posts/CF2222F)
+- [P4219 BJOI4219 大融合](https://x.fallingsakura.top/posts/P4219 BJOI4219 大融合)
 
 通过上面三题可以看出这种类型的问题有几个特征：
 
