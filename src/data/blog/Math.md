@@ -1,7 +1,7 @@
 ---
 title: Math
 author: Ficon
-pubDatetime: 2026-05-28T19:00:56+08:00
+pubDatetime: 2025-11-15T19:00:56+08:00
 featured: false
 showToc: true
 description: ""
