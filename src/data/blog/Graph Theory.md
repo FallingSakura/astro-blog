@@ -977,7 +977,7 @@ signed main() {
 
 ### 次小生成树
 
-见 [2024-Zhejiang-J](https://x.fallingsakura.top/posts/2024-Zhejiang-J)
+见 [2024-Zhejiang-J](https://x.fallingsakura.top/posts/2024-zhejiang-j)
 
 ### [严格次小生成树](https://www.luogu.com.cn/problem/P4180)
 
