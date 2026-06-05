@@ -12,6 +12,15 @@ publish: true
 
 ## Table of contents
 
+## 保留小数
+
+```cpp
+cout << fixed << setprecision(6) << n << endl;
+// fixed 代表以小数形式输出，而不是科学计数法
+// setprecision 表示保留几位小数
+// 这个是一次性的，要取消的话，可以 cout << defaultfloat;
+```
+
 ## 结构化绑定
 
 被解构的右值需要是聚合类型，例如数组、pair、tuple、结构体等。
